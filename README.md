@@ -34,5 +34,5 @@ If you want the original backend API script, you can check it here: `facebook-vi
 
 ## 👨‍💻 Creators
 
-- **Professor Imamul Islam** - [GitHub](https://github.com/creationofprofessor) | [Facebook](https://www.facebook.com/Dark.User.Professor)
+- **Professor Imamul Islam** - [GitHub](https://github.com/creationofprofessor)
 - **Inception** - [GitHub](https://github.com/Inception09) | Telegram: `@inception00007`
