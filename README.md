@@ -19,6 +19,7 @@
   [![GitHub last commit](https://img.shields.io/github/last-commit/Inception09/FB-VIDEOS-DOWNLOADER)](https://github.com/Inception09/FB-VIDEOS-DOWNLOADER/commits/main)
   [![License](https://img.shields.io/github/license/Inception09/FB-VIDEOS-DOWNLOADER)](LICENSE)
   [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffb-videos-downloader.netlify.app&label=Live%20Demo)](https://fb-videos-downloader.netlify.app)
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/b9594161-aa37-418b-a5e9-ba6aca232850/deploy-status)](https://app.netlify.com/projects/fb-videos-downloader/deploys)
   <br />
   <b>Created with ❤️ by Professor Imamul Islam & Inception</b>
 </div>
