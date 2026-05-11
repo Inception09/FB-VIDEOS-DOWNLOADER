@@ -1,0 +1,6 @@
+{
+  "name": "FBVideoDownloader Pro",
+  "description": "High-speed Facebook video downloader. Fetch metadata, download in multiple qualities, and extract audio with ease.",
+  "requestFramePermissions": ["clipboard-read", "clipboard-write"],
+  "majorCapabilities": []
+}
