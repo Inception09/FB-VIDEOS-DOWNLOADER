@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=FB%20Videos%20Downloader&fontSize=60&fontAlignY=35&desc=High-Speed%20API%20%2B%20Premium%20UI&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=FB%20Videos%20Downloader&fontSize=60&fontAlignY=35&desc=Original%20API%20%2B%20Premium%20UI&descAlignY=55&descAlign=50" />
 
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -23,7 +23,7 @@ I had originally created the core backend script (which you can still see in `fa
 ## 🚀 Live Demo
 
 You can check out the live web application here:
-*(Netlify link will be added here later)*
+*https://fb-videos-downloader.netlify.app/*
 
 ---
 
