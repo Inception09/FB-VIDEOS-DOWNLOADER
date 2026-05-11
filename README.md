@@ -19,8 +19,6 @@
   [![GitHub last commit](https://img.shields.io/github/last-commit/Inception09/FB-VIDEOS-DOWNLOADER)](https://github.com/Inception09/FB-VIDEOS-DOWNLOADER/commits/main)
   [![License](https://img.shields.io/github/license/Inception09/FB-VIDEOS-DOWNLOADER)](LICENSE)
   [![Website](https://img.shields.io/website?url=https%3A%2F%2Ffb-videos-downloader.netlify.app&label=Live%20Demo)](https://fb-videos-downloader.netlify.app)
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/fb-videos-downloader/deploy-status)](https://app.netlify.com/sites/fb-videos-downloader/deploys)
-
   <br />
   <b>Created with ❤️ by Professor Imamul Islam & Inception</b>
 </div>
@@ -304,8 +302,5 @@ This project is open source. Feel free to use, modify, and distribute it — jus
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" />
-
   <p>If you found this useful, please ⭐ star the repo — it really helps!</p>
-
-  [![Star History Chart](https://api.star-history.com/svg?repos=Inception09/FB-VIDEOS-DOWNLOADER&type=Date)](https://star-history.com/#Inception09/FB-VIDEOS-DOWNLOADER&Date)
 </div>
