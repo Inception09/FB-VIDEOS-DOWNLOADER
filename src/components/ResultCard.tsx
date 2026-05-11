@@ -47,20 +47,25 @@ export default function ResultCard({ data }: ResultCardProps) {
     try {
       let downloadUrl = format.url;
 
-      if (!downloadUrl) {
-        const response = await api.post("/download", { 
-          url: data.webpage_url, 
-          formatId 
-        });
-        downloadUrl = response.data.downloadUrl;
-      }
-
       if (!downloadUrl) throw new Error("Could not get download URL");
+
+      // Append dl=1 to force download if the CDN supports it
+      if (!downloadUrl.includes("dl=1")) {
+        downloadUrl += downloadUrl.includes("?") ? "&dl=1" : "?dl=1";
+      }
 
       const link = document.createElement("a");
       link.href = downloadUrl;
-      link.setAttribute("download", `${data.title || 'video'}.mp4`);
+      
+      // Clean up the title to be a safe filename
+      const safeTitle = data.title 
+        ? data.title.replace(/[^a-zA-Z0-9]/g, '_').substring(0, 50) 
+        : 'fb_video';
+        
+      link.setAttribute("download", `${safeTitle}.mp4`);
       link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+      
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
